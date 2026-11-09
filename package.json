@@ -1,6 +1,6 @@
 {
   "name": "deep-merge-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Recursively merges objects with configurable handling for arrays and null values",
   "type": "module",
   "main": "src/index.js",
